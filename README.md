@@ -6,7 +6,7 @@ Web developer
 
 *   🌍  I'm based in Ukraine, Dnipro
 *   ✉️  You can contact me at [aleksandrkamlykov@gmail.com](mailto:aleksandrkamlykov@gmail.com)
-*   🧠  I'm learning React JS, PHP
+*   🧠  I'm learning React JS, TS, .NET, ASP.NET
 *   🤝  I'm open to collaborating on Interesting web project
 ### Skills
 <p align="left">
